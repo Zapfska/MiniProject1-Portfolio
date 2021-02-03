@@ -1,0 +1,26 @@
+.footer {
+  background-color: #3c1874;
+  padding: 15px 0 35px;
+  filter: drop-shadow(0 -3px 9px rgba(0, 0, 0, 0.404));
+}
+
+.footerTxt {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.footerTxt li,
+.footerTxt {
+  margin: 0 0.4rem;
+  padding: 0 1rem 0 0;
+  font-size: 1rem;
+  color: #f3f3f3;
+  border-right: 0.121rem solid #932432;
+}
+
+.footer p {
+  font-size: 1rem;
+  margin: 0.25rem 0;
+  color: darkgray;
+}

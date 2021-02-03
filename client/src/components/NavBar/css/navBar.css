@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;900&display=swap");
+
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionStatic.MuiAppBar-colorPrimary.MuiPaper-elevation4 {
+  margin-bottom: 3rem;
+}
+
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionStatic.MuiAppBar-colorPrimary.MuiPaper-elevation4 {
+  background-color: #3c1874;
+}
+
+span.MuiIconButton-label {
+  color: #de354c;
+}
+
+.MuiTypography-h6 {
+  font-family: "Montserrat", sans-serif !important;
+}
